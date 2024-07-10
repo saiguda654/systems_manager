@@ -10,9 +10,6 @@ We will be creating this environment in the ap-southeast-4 (Melbourne) region, s
 
 *Update:* As of the 23rd of March, Amazon Linux 2023 is supported, but Ubuntu 22.04 is not. [See here for a list of supported OS's](https://docs.aws.amazon.com/systems-manager/latest/userguide/patch-manager-prerequisites.html#supported-os).
 
-# Video Guide
-
-[HERE](https://youtu.be/B2MecqC5nJA)
 
 # Instructions
 
